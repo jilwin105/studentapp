@@ -1,0 +1,16 @@
+{
+    "name": "estoya/studentapp",
+    "description": "basic student description",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Estoya\\Studentapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Estoya jilwin"
+        }
+    ],
+    "require": {}
+}
